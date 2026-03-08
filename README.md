@@ -18,7 +18,7 @@ Currently learning
 Contact
 LinkedIn https://www.linkedin.com/in/abdil-turdaliyev-a280592a6/
 
-Typing Speed Game
+Typing Speed Game | https://github.com/abdilturdaliyev-cmd/typing-speed-game
 
 A small web application that measures typing speed (WPM) and accuracy.
 
