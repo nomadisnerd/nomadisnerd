@@ -17,3 +17,20 @@ Currently learning
 
 Contact
 LinkedIn https://www.linkedin.com/in/abdil-turdaliyev-a280592a6/
+
+Typing Speed Game
+
+A small web application that measures typing speed (WPM) and accuracy.
+
+Features
+• real-time typing feedback
+• WPM calculation
+• restart functionality
+
+Tech
+HTML
+CSS
+JavaScript
+
+Run
+Open index.html
